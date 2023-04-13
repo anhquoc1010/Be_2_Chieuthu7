@@ -1,2 +1,7 @@
+<<<<<<< ours
+day la file week1 thuoc branch weeek 1
+=======
 day la file week1 
 file week1 đã mege xong2
+>>>>>>> theirs
+du keu doi
